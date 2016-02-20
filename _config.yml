@@ -1,0 +1,28 @@
+name: WILDERPRINT
+favicon: null
+layout_spectrum: 0.14636870590038598
+typography_spectrum: 0.6939707924611866
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.9496261046733707
+  lightness: 0.5171218637842685
+  saturation: 0.605141359847039
+  rhythmicContrast: 0.7405253178440034
+purpose: []
